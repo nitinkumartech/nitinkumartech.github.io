@@ -1,24 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nitin Kumar</title>
-    <link>http://example.org/</link>
-    <description>Recent content on Nitin Kumar</description>
+    <title>Portfolios on Nitin Kumar</title>
+    <link>http://example.org/portfolio/</link>
+    <description>Recent content in Portfolios on Nitin Kumar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Dec 2020 12:49:27 +0600</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Visualizing Git Repositories</title>
-      <link>http://example.org/blog/markdown-formatting-demo/</link>
-      <pubDate>Wed, 16 Dec 2020 12:49:27 +0600</pubDate>
-      
-      <guid>http://example.org/blog/markdown-formatting-demo/</guid>
-      <description>TLDR: This are the high level steps to create visualizations for your own Git repositories as the example below.
-  Use Gource for creating the git visualization PPM frames
-  Use FFmpeg for converting PPM frames to MPEG/AVI (any codec) of your choice
-  Use combination of sox and FFmpeg to add background music to the generated video (Optional). I did this step because I am anyways uploading this to YouTube).</description>
-    </item>
-    
+    <lastBuildDate>Wed, 12 Aug 2020 18:19:35 +0600</lastBuildDate><atom:link href="http://example.org/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Recipe App Ux Study</title>
       <link>http://example.org/portfolio/recipe-app-ux-study/</link>
