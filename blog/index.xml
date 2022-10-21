@@ -14,9 +14,10 @@
       
       <guid>https://nitin-kumar.com/blog/markdown-formatting-demo/</guid>
       <description>TLDR: This are the high level steps to create visualizations for your own Git repositories as the example below.
-  Use Gource for creating the git visualization PPM frames
-  Use FFmpeg for converting PPM frames to MPEG/AVI (any codec) of your choice
-  Use combination of sox and FFmpeg to add background music to the generated video (Optional). I did this step because I am anyways uploading this to YouTube).</description>
+Use Gource for creating the git visualization PPM frames
+Use FFmpeg for converting PPM frames to MPEG/AVI (any codec) of your choice
+Use combination of sox and FFmpeg to add background music to the generated video (Optional). I did this step because I am anyways uploading this to YouTube).
+You can find all the pre-rendered videos here.</description>
     </item>
     
   </channel>
